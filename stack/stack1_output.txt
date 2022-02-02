@@ -1,0 +1,32 @@
+Volley Ball hai aacha hai
+
+            Select what you wanna do:
+            1. push an element
+            2. display stack
+            3. remove people over 18
+            enter 'q' for quit
+            1
+Enter name,age seprated by comma: joshua,19
+
+            Select what you wanna do:
+            1. push an element
+            2. display stack
+            3. remove people over 18
+            enter 'q' for quit
+            1
+Enter name,age seprated by comma: sundar,15
+
+            Select what you wanna do:
+            1. push an element
+            2. display stack
+            3. remove people over 18
+            enter 'q' for quit
+            3
+
+            Select what you wanna do:
+            1. push an element
+            2. display stack
+            3. remove people over 18
+            enter 'q' for quit
+            2
+joshua  19

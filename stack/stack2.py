@@ -10,9 +10,6 @@ def display(stk: list):
         for tuple_ in stk
     ]))
     
-    
-# Write a program to create a stack list which contains tuples of (citizen's name, age, date) of those people who are vaccinated. 
-# creating a stack, check if empty, add items and remove an item from stack, remove details o person from stack who has not given second dose
 print('Aaao aao, vaccine daalo')
 
 stack = create_stack()

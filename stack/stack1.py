@@ -9,9 +9,6 @@ def display(stk: list):
         '\t'.join(tuple_)
         for tuple_ in stk
     ]))
-    
-# write a program to implement stack operations for students who are selected for a volleyball competition.
-# implement stack operations like create a stack, checking if stack is empty, add items, remove an element from stack who's age is > 18
 
 print('Volley Ball hai aacha hai')
 

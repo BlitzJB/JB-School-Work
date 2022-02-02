@@ -1,0 +1,38 @@
+Aaao aao, vaccine daalo
+
+                   select what you wanna do:
+                   1. push an element
+                   2. pop from stack
+                   3. display only second dose receptients
+                   4. display stack
+                   enter 'q' to quit
+1
+Enter name,age,doseDate seprated by comma: joshua,13,20-1-2015
+
+                   select what you wanna do:
+                   1. push an element
+                   2. pop from stack
+                   3. display only second dose receptients
+                   4. display stack
+                   enter 'q' to quit
+                   1
+Enter name,age,doseDate seprated by comma: joshua,15,20-1-2017
+
+                   select what you wanna do:
+                   1. push an element
+                   2. pop from stack
+                   3. display only second dose receptients
+                   4. display stack
+                   enter 'q' to quit
+                   1
+Enter name,age,doseDate seprated by comma: sundar,1,20-1-2004
+
+                   select what you wanna do:
+                   1. push an element
+                   2. pop from stack
+                   3. display only second dose receptients
+                   4. display stack
+                   enter 'q' to quit
+                   3
+joshua  13      20-1-2015
+joshua  15      20-1-2017
